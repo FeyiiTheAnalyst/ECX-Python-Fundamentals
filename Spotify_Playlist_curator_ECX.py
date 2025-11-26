@@ -11,8 +11,8 @@
 # scope ="playlist-modify-public"
 # username ="315rubjatpah2r3gk5h3chws6qhm"
 # #("spotify_env") 
-# SPOTIFY_CLIENT_ID="ff0746940f834ddabfc3a3ae501b4bae"
-# SPOTIFY_CLIENT_SECRET="73faf657fa2941f4ab3ce62f1d71ce70"
+# SPOTIFY_CLIENT_ID=""
+# SPOTIFY_CLIENT_SECRET=""
 
 # # username = os.getenv("USERNAME")
 # token = SpotifyOAuth(client_id=SPOTIFY_CLIENT_ID,
@@ -360,4 +360,5 @@ def main_program():
 
 if __name__ == "__main__":
     main_program()
+
     
